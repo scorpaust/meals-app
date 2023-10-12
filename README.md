@@ -24,7 +24,7 @@ Explore a rich tapestry of flavors with our React Native app, developed using Ex
 
 ![Spaghetti with Tomato Sauce](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg)
 
-![Classic Hamburger](https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg)
+![Creamy Indian Chicken Curry](https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg)
 
 ## 🤝 Contributions:
 
