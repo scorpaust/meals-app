@@ -1,5 +1,6 @@
 import { useNavigation } from '@react-navigation/native';
 import { View, Text, Pressable, Image, StyleSheet, Platform } from 'react-native';
+
 import MealDetails from './MealDetails';
 
 function MealItem({ id, title, imageUrl, duration, complexity, affordability }) {
@@ -58,5 +59,5 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 18,
     margin: 8,
-  }
+  },
 });

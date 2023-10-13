@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet} from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 
 function MealDetails({ duration, complexity, affordability, style, textStyle }) {
   return (
@@ -13,15 +13,15 @@ function MealDetails({ duration, complexity, affordability, style, textStyle }) 
 export default MealDetails;
 
 const styles = StyleSheet.create({
-    details: {
-        flexDirection: 'row',
-        alignItems: 'center',
-        justifyContent: 'center',
-        padding: 8,
-      },
-      detailItem: {
-        marginHorizontal: 4,
-        fontSize: 12,
-        color: '#e2b497'
-      }
-})
+  details: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: 8,
+  },
+  detailItem: {
+    marginHorizontal: 4,
+    fontSize: 12,
+    color: '#e2b497',
+  },
+});

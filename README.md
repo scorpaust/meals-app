@@ -24,7 +24,6 @@ Explore a rich tapestry of flavors with our React Native app, developed using Ex
 
 ![Spaghetti with Tomato Sauce](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg)
 
-
 ## 🤝 Contributions:
 
 Contributions are always welcomed! Please see our `CONTRIBUTING.md` for guidelines.
@@ -36,4 +35,3 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the `LICENSE.
 ---
 
 💌 For feedback, issues, or inquiries, please [open an issue](https://github.com/scorpaust/meals-app/issues).
-

@@ -20,7 +20,6 @@ Thank you for your interest in contributing to Culinary Delights! 🎉 We truly 
 `git commit -m "Detail your edits here"`
 `git push origin name-of-your-new-branch`
 
-
 7. **Submit a Pull Request:** Visit the main repo and initiate a pull request from your fork. Describe your edits in detail.
 
 ## Code of Conduct:
